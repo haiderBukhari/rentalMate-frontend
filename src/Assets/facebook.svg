@@ -1,0 +1,23 @@
+<svg width="33" height="33" viewBox="0 0 53 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="facebook-icon-logo_svgrepo.com" filter="url(#filter0_d_1395_467)">
+<g clip-path="url(#clip0_1395_467)">
+<path id="Vector" d="M46.5163 45C47.8877 45 48.9997 43.8879 48.9997 42.5164V2.48356C48.9997 1.11162 47.8875 0 46.5163 0H6.48356C5.11162 0 4 1.11179 4 2.48356V42.5163C4 43.8879 5.11162 44.9998 6.48356 44.9998L46.5163 45Z" fill="#485A96"/>
+<path id="Vector_2" d="M35.0487 44.9999V27.5735H40.8979L41.7737 20.7821H35.0485V16.446C35.0485 14.4797 35.5944 13.1398 38.4142 13.1398L42.0104 13.1381V7.06396C41.3884 6.98135 39.2535 6.79639 36.7701 6.79639C31.585 6.79639 28.0352 9.96128 28.0352 15.7736V20.7821H22.1709V27.5735H28.0352V44.9997L35.0487 44.9999Z" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_1395_467" x="0" y="0" width="53" height="53" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1395_467"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1395_467" result="shape"/>
+</filter>
+<clipPath id="clip0_1395_467">
+<rect x="4" width="45" height="45" rx="10" fill="white"/>
+</clipPath>
+</defs>
+</svg>
